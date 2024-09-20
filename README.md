@@ -1,2 +1,2 @@
 # Model-Selection
-Simulation code for replicate the model selection method testing
+Simulation code for replicating the model selection method testing
